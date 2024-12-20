@@ -1,0 +1,4 @@
+Translate the following text from {src_lang} to {tar_lang}. 
+Respond with just the translation, no additional information.
+
+TRANSLATE: {text}
