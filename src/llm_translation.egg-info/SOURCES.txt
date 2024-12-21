@@ -1,0 +1,6 @@
+README.md
+setup.py
+src/llm_translation.egg-info/PKG-INFO
+src/llm_translation.egg-info/SOURCES.txt
+src/llm_translation.egg-info/dependency_links.txt
+src/llm_translation.egg-info/top_level.txt

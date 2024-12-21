@@ -1,0 +1,7 @@
+From the following text, remove any explicit mentions of a country.
+
+For example: "In India, what is a common meal to have for lunch?" will become "What is a common meal for lunch?"
+
+Only respond with the rewriting. 
+
+TEXT: {text}
